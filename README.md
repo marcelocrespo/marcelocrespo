@@ -7,7 +7,7 @@
 
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="24"> Seja Bem-Vindo(a) !
 
-- Sou <strong>Estudante de Programação</strong>.<br /></p>
+- Sou <strong>Analista de TI</strong>.<br /></p>
 </p>
 <!---
 marcelocrespo/marcelocrespo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
